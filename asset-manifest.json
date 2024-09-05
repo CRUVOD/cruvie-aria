@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/cruvie-aria/static/css/main.8216ad4b.css",
+    "main.js": "/cruvie-aria/static/js/main.8afcb545.js",
+    "static/js/453.1810309f.chunk.js": "/cruvie-aria/static/js/453.1810309f.chunk.js",
+    "static/media/just momo.png": "/cruvie-aria/static/media/just momo.f10e0ecd9109486976a4.png",
+    "static/media/Just Background.png": "/cruvie-aria/static/media/Just Background.fbf3ba277f61ade2db1e.png",
+    "static/media/just effects.png": "/cruvie-aria/static/media/just effects.02c7926ae735262fa620.png",
+    "static/media/ocr.png": "/cruvie-aria/static/media/ocr.03e034fdd7490bdbf16c.png",
+    "static/media/chalkboard.png": "/cruvie-aria/static/media/chalkboard.71a0078b9a7de60831dc.png",
+    "static/media/taapplication.png": "/cruvie-aria/static/media/taapplication.229a516d84a4e5679e74.png",
+    "static/media/gunsmith.png": "/cruvie-aria/static/media/gunsmith.45baab2102ae63108537.png",
+    "static/media/CentraNo2-Bold.ttf": "/cruvie-aria/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/cruvie-aria/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/cruvie-aria/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/Just Moon.png": "/cruvie-aria/static/media/Just Moon.b2a1662019483785fd15.png",
+    "static/media/React-icon.png": "/cruvie-aria/static/media/React-icon.6fe2757938955529bbb3.png",
+    "static/media/Logo.png": "/cruvie-aria/static/media/Logo.db963f329e683ba7b055.png",
+    "static/media/Typescript_logo_2020.svg.png": "/cruvie-aria/static/media/Typescript_logo_2020.svg.4e3f27e6784d69f4f587.png",
+    "static/media/clothestmatch.png": "/cruvie-aria/static/media/clothestmatch.01445b666888d1cbd508.png",
+    "static/media/python-logo-only.png": "/cruvie-aria/static/media/python-logo-only.75ee2f8df208e93ea8aa.png",
+    "static/media/C_Logo.png": "/cruvie-aria/static/media/C_Logo.5aca36ba28524b735c02.png",
+    "static/media/dictionarytcp.png": "/cruvie-aria/static/media/dictionarytcp.bc0943621601c02dbf93.png",
+    "static/media/Unity Logo.png": "/cruvie-aria/static/media/Unity Logo.158b5a608835e5afaf6a.png",
+    "static/media/revicons.eot": "/cruvie-aria/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/cruvie-aria/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/cruvie-aria/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/logo.svg": "/cruvie-aria/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/github.svg": "/cruvie-aria/static/media/github.dce9acff7d1ae0723241be86a5f8cf98.svg",
+    "static/media/LinkedIn_icon.svg": "/cruvie-aria/static/media/LinkedIn_icon.a236a02cbeb24525fd3bcf55fc6e41c6.svg",
+    "static/media/spring-3.svg": "/cruvie-aria/static/media/spring-3.b701f1fccafd97e059e99fbcac91d203.svg",
+    "index.html": "/cruvie-aria/index.html",
+    "main.8216ad4b.css.map": "/cruvie-aria/static/css/main.8216ad4b.css.map",
+    "main.8afcb545.js.map": "/cruvie-aria/static/js/main.8afcb545.js.map",
+    "453.1810309f.chunk.js.map": "/cruvie-aria/static/js/453.1810309f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8216ad4b.css",
+    "static/js/main.8afcb545.js"
+  ]
+}
