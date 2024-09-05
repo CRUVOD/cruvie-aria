@@ -1,1 +1,5 @@
+to test website
 npm start
+
+to update website
+npm run deploy
