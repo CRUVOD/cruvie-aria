@@ -18,7 +18,7 @@ export const Banner = () =>
         }, delta);
 
         return () => {clearInterval(ticker)};
-    });
+    }, []);
 
     const tick = () => {
         let i = loopNum % wordsToRotate.length;
